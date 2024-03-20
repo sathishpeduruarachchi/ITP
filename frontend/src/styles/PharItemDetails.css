@@ -1,0 +1,65 @@
+/* pharItemDetails.css */
+
+/* Container styles */
+.Dcontainer {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-left: 20px;
+  }
+  
+  /* Header styles */
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Item details styles */
+  p {
+    margin: 5px 0;
+    padding-bottom: 20px;
+  }
+  
+  /* Image styles */
+  img {
+    max-width: 100%;
+    margin-top: 10px;
+  }
+  
+  /* Button styles */
+  .btn {
+    margin-right: 10px;
+    padding: 10px 20px;
+    background-color: #05d32e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #08aa51;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333;
+  }
+  
+  /* Link styles */
+  a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
